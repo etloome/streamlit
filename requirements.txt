@@ -1,2 +1,2 @@
 Python===3.9.12
-Streamlit===1.16.0
+Streamlit===1.26.0
